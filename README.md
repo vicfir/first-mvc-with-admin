@@ -14,6 +14,8 @@ Nos données de préparation et de création du site, peut se trouver sur github
 `/public`
 Dossier accessible à l'utilisateur de votre site, c'est ici que l'on met le controleur frontal `index.php` et dossiers publiques `css`,`js`,`img`, ...
 
+- index.php -> notre front controller
+
 ## Virtualhost
 
 On crée en local un virtualhost avec wamp vers `votre_chemain.../first-mvc-with-admin/public`
